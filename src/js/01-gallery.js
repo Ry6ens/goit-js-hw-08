@@ -2,9 +2,7 @@
 import { galleryItems } from './gallery-items';
 // Change code below this line
 
-// Описан в документации
 import SimpleLightbox from 'simplelightbox';
-// Дополнительный импорт стилей
 import 'simplelightbox/dist/simple-lightbox.min.css';
 
 const galleryList = document.querySelector('.gallery');
